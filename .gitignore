@@ -1,0 +1,24 @@
+#Ignore folder named vendor
+
+/vendor/
+
+#Ignore folder named node_modules
+
+node_modules/
+
+
+#Ignore folder named public/js
+
+#public/js/
+#js/chunks/
+#/main.js
+#/manifest.js
+#vendor.js
+
+#ignore ENV
+.env
+
+#Ignore rendring files
+.idea\
+.phpintel
+/nbproject/private/
